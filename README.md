@@ -19,10 +19,7 @@ The goal of this project is to:
 
 This portfolio is designed for:
 
-- ✅Potential employers or recruiters
-- Freelance clients
-- Academic supervisors
-- General public
+- [✅] Potential employers or recruiters
 
   > _Note: If you don't have a portfolio yet, please add a fake/sample portfolio first._
 
