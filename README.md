@@ -4,6 +4,9 @@
 
 This is a single-page responsive portfolio website created as part of a lab assignment. The website showcases personal information, projects, skills, and contact details. It is built using **HTML**, and **CSS**.
 
+- URL Link to website portfolio: [Click Here](https://juwono136.github.io/bookstore-html-css/)
+- URL Link to website design: [Click Here](https://www.figma.com/design/9NFz7bF42TjCfcih4mCXMW/travel-website?node-id=0-1&t=gKd7Ihxhht2aiEM0-1)
+
 ## 🎯 Purpose
 
 The goal of this project is to:
